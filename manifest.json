@@ -1,0 +1,22 @@
+{  
+  "manifest_version": 3,  
+  "name": "Web Stress Test Simulator",  
+  "version": "1.0",  
+  "description": "A menu-based simulation tool for HTTP Flood, Concurrency, Brute Force, and Slowloris patterns for educational testing.",  
+  "permissions": [  
+    "activeTab"  
+  ],  
+  "action": {  
+    "default_popup": "popup.html",  
+    "default_icon": {  
+      "16": "lorem.png",  
+      "48": "lorem.png",  
+      "128": "lorem.png"  
+    }  
+  },  
+  "icons": {  
+    "16": "lorem.png",  
+    "48": "lorem.png",  
+    "128": "lorem.png"  
+  }  
+}  
